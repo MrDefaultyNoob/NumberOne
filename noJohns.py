@@ -1,4 +1,4 @@
-name = input("What is your name?")
+name = input("What is your name?\n").strip().capitalize()
 
 if name == "John":
     print("Get out of here!")
