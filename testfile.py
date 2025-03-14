@@ -6,6 +6,10 @@ print(testlist)
 
 testlist.pop()
 
-print(testlist) 
+print(testlist)
+
+#are u sure ur a list?
+type(testlist)
+
 
 input("Press Enter to exit...")
